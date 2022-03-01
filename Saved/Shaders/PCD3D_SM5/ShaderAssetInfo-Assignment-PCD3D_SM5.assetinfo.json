@@ -234,6 +234,75 @@
 			]
 		},
 		{
+			"ShaderMapHash": "B316CF34FF48313721D5744F675582CB6BDE54CA",
+			"Assets": [
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Interior.uasset",
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Box.uasset",
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SUV/M_SUV_Under.uasset",
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SUV/M_SUV_Interior.uasset",
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Under.uasset",
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Interior.uasset",
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Pickup/M_Pickup_Under.uasset",
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under.uasset",
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6781B8C7DA3C60094D222711B28D709079F37EA3",
+			"Assets": [
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Chassis.uasset",
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Body.uasset",
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SUV/M_SUV_Body.uasset",
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Body.uasset",
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Pickup/M_Pickup_Body.uasset",
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "42A00775F300540E7F81EDA4C5E62EB1BEF64F25",
+			"Assets": [
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Masters/M_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6AA823757DFFE075A3077A25631B93711ABA9155",
+			"Assets": [
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Pickup/M_Pickup_Interior.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5D2EDAE7979C519F602B58ED3FEEBE98E6E387ED",
+			"Assets": [
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Pickup/Mi_Pickup_Glass.uasset",
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Hatchback/Mi_Hatchback_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8308505CBC56271CE4843BF51950A9F35F41EEBC",
+			"Assets": [
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Masters/M_Floor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2C689D8EB30EE8AB7E0C31A1DC5F660B7EA63011",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset",
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
+			"Assets": [
+				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "78CCB0353A456910EFD2CF379FFD8D3F893A75DF",
 			"Assets": [
 				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Materials/MasterGrid.uasset"
@@ -259,90 +328,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6781B8C7DA3C60094D222711B28D709079F37EA3",
+			"ShaderMapHash": "B377F2C466685D8337499DEB2ADC1465F3B5A0F1",
 			"Assets": [
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Body.uasset",
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Chassis.uasset",
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Body.uasset",
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SUV/M_SUV_Body.uasset",
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Pickup/M_Pickup_Body.uasset",
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Body.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "B316CF34FF48313721D5744F675582CB6BDE54CA",
-			"Assets": [
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Interior.uasset",
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Under.uasset",
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Interior.uasset",
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Box.uasset",
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SUV/M_SUV_Under.uasset",
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SUV/M_SUV_Interior.uasset",
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Pickup/M_Pickup_Under.uasset",
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under.uasset",
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "42A00775F300540E7F81EDA4C5E62EB1BEF64F25",
-			"Assets": [
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Masters/M_Glass.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
-			"Assets": [
-				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset",
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "8308505CBC56271CE4843BF51950A9F35F41EEBC",
-			"Assets": [
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Masters/M_Floor.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "2C689D8EB30EE8AB7E0C31A1DC5F660B7EA63011",
-			"Assets": [
-				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "6AA823757DFFE075A3077A25631B93711ABA9155",
-			"Assets": [
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Pickup/M_Pickup_Interior.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "5D2EDAE7979C519F602B58ED3FEEBE98E6E387ED",
-			"Assets": [
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Pickup/Mi_Pickup_Glass.uasset",
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Hatchback/Mi_Hatchback_Glass.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
-			"Assets": [
-				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "FD2325E266AE8FA725B570B13BA1ADA3CF25BCDD",
-			"Assets": [
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Materials/M_Glass.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "1F50C05C09A2E83257010B93662F36A1D7586D7B",
 			"Assets": [
 				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Props/Materials/M_Frame.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "B377F2C466685D8337499DEB2ADC1465F3B5A0F1",
-			"Assets": [
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Materials/M_Glass.uasset"
 			]
 		},
 		{
@@ -644,6 +638,12 @@
 			"ShaderMapHash": "A26EB19066B55C757555A93C8FC22987E3D4E3E9",
 			"Assets": [
 				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD2325E266AE8FA725B570B13BA1ADA3CF25BCDD",
+			"Assets": [
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Materials/M_Basic_Wall.uasset"
 			]
 		},
 		{

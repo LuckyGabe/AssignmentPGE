@@ -43,11 +43,11 @@ Windows.Engine:Core.System:HangDuration:0=0.0
 Windows.Engine:Core.System:AssetLogShowsDiskPath:0=True
 Windows.Engine:Core.System:AssetLogShowsAbsolutePath:0=True
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Maps/MainMenuMap.MainMenuMap
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/Blueprints/BP_Gamemode.BP_Gamemode_C
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/Engine.GameMode
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/Maps/EveningRideMap.EveningRideMap
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:LocalMapOptions:0=
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:TransitionMap:0=
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:bUseSplitscreen:0=True
@@ -2484,6 +2484,7 @@ Windows.Scalability:ShadingQuality@Cine:r.HairStrands.SkyAO.SampleCount:0=8
 Windows.Scalability:ShadingQuality@Cine:r.HairStrands.Visibility.MSAA.SamplePerPixel:0=8
 Windows.Scalability:ShadingQuality@Cine:r.HairStrands.Interpolation.UseSingleGuide:0=0
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:UsingXGE:0=False
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:bExpandCustomClassPickerClassList:0=True
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:0=(Name="Matinee")
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:1=(Name="CurveEditor")
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:0=(Parent="Matinee", CommandName="Matinee_PlayForward", Description="Matinee_PlayForward_Desc", ExecCommand="Matinee Play")
