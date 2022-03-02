@@ -1788,6 +1788,8 @@ Windows.Input:/Script/Engine.InputSettings:ActionMappings:18=(ActionName="ResetV
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:19=(ActionName="ResetVR",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=ValveIndex_Left_Thumbstick_Click)
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:20=(ActionName="ResetVR",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=MagicLeap_Left_Bumper)
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:21=(ActionName="Handbrake",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=LeftShift)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:22=(ActionName="Pause",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Escape)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:23=(ActionName="Pause",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=X)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:0=(AxisName="MoveForward",Scale=1.000000,Key=W)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:1=(AxisName="MoveForward",Scale=-1.000000,Key=S)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:2=(AxisName="MoveForward",Scale=1.000000,Key=Up)
