@@ -789,3 +789,599 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.05-21.12.00:088][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2022.03.05-21.12.00:124][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.03.05-21.12.00:263][  3]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.05-21.13.37:037][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.03.05-21.13.37:042][817]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.05-21.13.37:113][817]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/CosmicVoid.CosmicVoid
+[2022.03.05-21.13.37:113][817]Cmd: MAP LOAD FILE="../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.05-21.13.37:113][817]LightingResults: New page: Lighting Build
+[2022.03.05-21.13.37:113][817]LoadErrors: New page: Loading map: CosmicVoid.umap
+[2022.03.05-21.13.37:137][817]LogWorld: UWorld::CleanupWorld for EveningRideMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-21.13.37:137][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.13.37:138][817]MapCheck: New page: Map Check
+[2022.03.05-21.13.37:138][817]LightingResults: New page: Lighting Build
+[2022.03.05-21.13.37:142][817]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.05-21.13.37:149][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.03.05-21.13.37:149][817]LogAudio: Display: Audio Device (ID: 1) registered with world 'CosmicVoid'.
+[2022.03.05-21.13.37:172][817]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.05-21.13.37:172][817]LogAIModule: Creating AISystem for world CosmicVoid
+[2022.03.05-21.13.37:182][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.03.05-21.13.37:195][817]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.05-21.13.37:195][817]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.172ms to complete.
+[2022.03.05-21.13.37:195][817]LogFileHelpers: Loading map 'CosmicVoid' took 0.083
+[2022.03.05-21.13.49:230][536]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.05-21.13.49:240][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.05-21.13.49:240][536]PIE: New page: PIE session: CosmicVoid (5 Mar 2022, 21:13:49)
+[2022.03.05-21.13.49:241][536]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.05-21.13.49:242][536]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.05-21.13.49:242][536]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CosmicVoid
+[2022.03.05-21.13.49:265][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023283s)
+[2022.03.05-21.13.49:266][536]LogAIModule: Creating AISystem for world CosmicVoid
+[2022.03.05-21.13.49:266][536]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2022.03.05-21.13.49:266][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CosmicVoid.CosmicVoid to /Game/Maps/UEDPIE_0_CosmicVoid.CosmicVoid (0.024336s)
+[2022.03.05-21.13.49:270][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.03.05-21.13.49:271][536]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.05-21.13.49:271][536]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.05-21.13.49:271][536]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.05-21.13.49:271][536]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.05-21.13.49:271][536]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.05-21.13.49:271][536]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.05-21.13.49:271][536]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.05-21.13.49:271][536]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.05-21.13.49:271][536]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.05-21.13.49:271][536]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.05-21.13.49:271][536]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.05-21.13.49:273][536]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.05-21.13.49:273][536]LogAudioMixer: Display: 1: FrontRight
+[2022.03.05-21.13.49:381][536]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.03.05-21.13.49:382][536]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.05-21.13.49:382][536]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.05-21.13.49:382][536]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.05-21.13.49:382][536]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.05-21.13.49:383][536]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.05-21.13.49:383][536]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.05-21.13.49:396][536]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.05-21.13.49:396][536]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.05-21.13.49:396][536]LogInit: FAudioDevice initialized.
+[2022.03.05-21.13.49:396][536]LogAudio: Display: Audio Device (ID: 2) registered with world 'CosmicVoid'.
+[2022.03.05-21.13.49:402][536]LogLoad: Game class is 'BP_Gamemode_C'
+[2022.03.05-21.13.49:407][536]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CosmicVoid.CosmicVoid up for play (max tick rate 60) at 2022.03.05-21.13.49
+[2022.03.05-21.13.49:407][536]LogWorld: Bringing up level for play took: 0.004195
+[2022.03.05-21.13.49:407][536]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.03.05-21.13.49:410][536]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.05-21.13.49:411][536]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.03.05-21.13.49:411][536]PIE: Server logged in
+[2022.03.05-21.13.49:412][536]PIE: Play in editor total start time 0.175 seconds.
+[2022.03.05-21.14.19:613][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-21.14.19:613][346]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CosmicVoid
+[2022.03.05-21.14.19:613][346]LogWorld: UWorld::CleanupWorld for CosmicVoid, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-21.14.19:614][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.14.19:625][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.05-21.14.19:627][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.14.19:631][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-21.14.19:631][346]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-21.14.19:633][346]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-21.14.19:652][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.05-21.14.19:689][348]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.03.05-21.14.53:423][367]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.05-21.14.53:433][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.05-21.14.53:433][367]PIE: New page: PIE session: CosmicVoid (5 Mar 2022, 21:14:53)
+[2022.03.05-21.14.53:434][367]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CosmicVoid
+[2022.03.05-21.14.53:458][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024290s)
+[2022.03.05-21.14.53:459][367]LogAIModule: Creating AISystem for world CosmicVoid
+[2022.03.05-21.14.53:459][367]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2022.03.05-21.14.53:459][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CosmicVoid.CosmicVoid to /Game/Maps/UEDPIE_0_CosmicVoid.CosmicVoid (0.025256s)
+[2022.03.05-21.14.53:464][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.03.05-21.14.53:465][367]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.05-21.14.53:465][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.05-21.14.53:465][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.05-21.14.53:465][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.05-21.14.53:465][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.05-21.14.53:465][367]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.05-21.14.53:465][367]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.05-21.14.53:465][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.05-21.14.53:465][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.05-21.14.53:465][367]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.05-21.14.53:465][367]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.05-21.14.53:467][367]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.05-21.14.53:467][367]LogAudioMixer: Display: 1: FrontRight
+[2022.03.05-21.14.53:563][367]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.03.05-21.14.53:563][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.05-21.14.53:563][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.05-21.14.53:563][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.05-21.14.53:564][367]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.05-21.14.53:564][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.05-21.14.53:564][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.05-21.14.53:577][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.05-21.14.53:577][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.05-21.14.53:577][367]LogInit: FAudioDevice initialized.
+[2022.03.05-21.14.53:577][367]LogAudio: Display: Audio Device (ID: 3) registered with world 'CosmicVoid'.
+[2022.03.05-21.14.53:588][367]LogLoad: Game class is 'BP_Gamemode_C'
+[2022.03.05-21.14.53:591][367]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CosmicVoid.CosmicVoid up for play (max tick rate 60) at 2022.03.05-21.14.53
+[2022.03.05-21.14.53:591][367]LogWorld: Bringing up level for play took: 0.003476
+[2022.03.05-21.14.53:592][367]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.03.05-21.14.53:594][367]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.03.05-21.14.53:594][367]PIE: Server logged in
+[2022.03.05-21.14.53:595][367]PIE: Play in editor total start time 0.165 seconds.
+[2022.03.05-21.15.02:994][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-21.15.02:994][929]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CosmicVoid
+[2022.03.05-21.15.02:994][929]LogWorld: UWorld::CleanupWorld for CosmicVoid, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-21.15.02:995][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.15.03:003][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.05-21.15.03:009][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.15.03:013][929]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.05-21.15.03:014][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-21.15.03:015][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-21.15.03:031][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-21.15.03:034][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.03.05-21.15.03:060][930]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.03.05-21.15.27:766][411]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.05-21.15.27:776][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.05-21.15.27:776][411]PIE: New page: PIE session: CosmicVoid (5 Mar 2022, 21:15:27)
+[2022.03.05-21.15.27:776][411]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CosmicVoid
+[2022.03.05-21.15.27:800][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023731s)
+[2022.03.05-21.15.27:800][411]LogAIModule: Creating AISystem for world CosmicVoid
+[2022.03.05-21.15.27:801][411]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2022.03.05-21.15.27:801][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CosmicVoid.CosmicVoid to /Game/Maps/UEDPIE_0_CosmicVoid.CosmicVoid (0.024670s)
+[2022.03.05-21.15.27:805][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.05-21.15.27:806][411]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.05-21.15.27:806][411]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.05-21.15.27:806][411]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.05-21.15.27:806][411]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.05-21.15.27:806][411]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.05-21.15.27:806][411]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.05-21.15.27:806][411]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.05-21.15.27:806][411]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.05-21.15.27:806][411]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.05-21.15.27:806][411]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.05-21.15.27:806][411]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.05-21.15.27:808][411]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.05-21.15.27:808][411]LogAudioMixer: Display: 1: FrontRight
+[2022.03.05-21.15.27:906][411]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.03.05-21.15.27:907][411]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.05-21.15.27:907][411]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.05-21.15.27:907][411]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.05-21.15.27:907][411]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.05-21.15.27:907][411]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.05-21.15.27:907][411]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.05-21.15.27:921][411]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.05-21.15.27:921][411]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.05-21.15.27:921][411]LogInit: FAudioDevice initialized.
+[2022.03.05-21.15.27:921][411]LogAudio: Display: Audio Device (ID: 4) registered with world 'CosmicVoid'.
+[2022.03.05-21.15.27:929][411]LogLoad: Game class is 'BP_Gamemode_C'
+[2022.03.05-21.15.27:932][411]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CosmicVoid.CosmicVoid up for play (max tick rate 60) at 2022.03.05-21.15.27
+[2022.03.05-21.15.27:933][411]LogWorld: Bringing up level for play took: 0.003437
+[2022.03.05-21.15.27:933][411]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.03.05-21.15.27:935][411]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.03.05-21.15.27:935][411]PIE: Server logged in
+[2022.03.05-21.15.27:936][411]PIE: Play in editor total start time 0.162 seconds.
+[2022.03.05-21.15.37:395][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-21.15.37:395][977]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CosmicVoid
+[2022.03.05-21.15.37:395][977]LogWorld: UWorld::CleanupWorld for CosmicVoid, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-21.15.37:396][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.15.37:404][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.05-21.15.37:410][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.15.37:414][977]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.05-21.15.37:414][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-21.15.37:415][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-21.15.37:432][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-21.15.37:434][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.05-21.15.37:482][979]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.03.05-21.15.54:609][  6]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.05-21.15.54:618][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.05-21.15.54:618][  6]PIE: New page: PIE session: CosmicVoid (5 Mar 2022, 21:15:54)
+[2022.03.05-21.15.54:618][  6]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CosmicVoid
+[2022.03.05-21.15.54:641][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023151s)
+[2022.03.05-21.15.54:642][  6]LogAIModule: Creating AISystem for world CosmicVoid
+[2022.03.05-21.15.54:642][  6]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2022.03.05-21.15.54:642][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CosmicVoid.CosmicVoid to /Game/Maps/UEDPIE_0_CosmicVoid.CosmicVoid (0.024088s)
+[2022.03.05-21.15.54:646][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.05-21.15.54:647][  6]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.05-21.15.54:647][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.05-21.15.54:647][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.05-21.15.54:647][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.05-21.15.54:647][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.05-21.15.54:647][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.05-21.15.54:647][  6]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.05-21.15.54:647][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.05-21.15.54:647][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.05-21.15.54:647][  6]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.05-21.15.54:647][  6]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.05-21.15.54:649][  6]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.05-21.15.54:649][  6]LogAudioMixer: Display: 1: FrontRight
+[2022.03.05-21.15.54:746][  6]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.03.05-21.15.54:746][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.05-21.15.54:746][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.05-21.15.54:746][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.05-21.15.54:747][  6]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.05-21.15.54:747][  6]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.05-21.15.54:747][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.05-21.15.54:761][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.05-21.15.54:761][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.05-21.15.54:761][  6]LogInit: FAudioDevice initialized.
+[2022.03.05-21.15.54:761][  6]LogAudio: Display: Audio Device (ID: 5) registered with world 'CosmicVoid'.
+[2022.03.05-21.15.54:766][  6]LogLoad: Game class is 'BP_Gamemode_C'
+[2022.03.05-21.15.54:770][  6]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CosmicVoid.CosmicVoid up for play (max tick rate 60) at 2022.03.05-21.15.54
+[2022.03.05-21.15.54:771][  6]LogWorld: Bringing up level for play took: 0.003655
+[2022.03.05-21.15.54:771][  6]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.03.05-21.15.54:773][  6]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.03.05-21.15.54:773][  6]PIE: Server logged in
+[2022.03.05-21.15.54:774][  6]PIE: Play in editor total start time 0.158 seconds.
+[2022.03.05-21.16.04:285][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-21.16.04:285][575]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CosmicVoid
+[2022.03.05-21.16.04:285][575]LogWorld: UWorld::CleanupWorld for CosmicVoid, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-21.16.04:286][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.16.04:295][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.05-21.16.04:301][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.16.04:305][575]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.05-21.16.04:305][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-21.16.04:306][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-21.16.04:323][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-21.16.04:325][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.05-21.16.04:368][577]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.03.05-21.16.06:938][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.05-21.16.07:035][730]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoidDFE44B20428A3457698D30BB52D95B71.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid.umap'
+[2022.03.05-21.16.07:083][730]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid_BuiltData22C35D3B4295F83A7964ABAB412E90AC.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid_BuiltData.uasset'
+[2022.03.05-21.16.07:096][730]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.05-21.16.07:096][730]LogContentValidation: Display: Validating World /Game/Maps/CosmicVoid.CosmicVoid
+[2022.03.05-21.16.07:096][730]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CosmicVoid_BuiltData.CosmicVoid_BuiltData
+[2022.03.05-21.16.09:551][878]Cmd: EDIT COPY
+[2022.03.05-21.16.09:801][893]Cmd: EDIT PASTE
+[2022.03.05-21.16.42:899][877]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.05-21.16.42:908][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.05-21.16.42:908][877]PIE: New page: PIE session: CosmicVoid (5 Mar 2022, 21:16:42)
+[2022.03.05-21.16.42:950][877]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CosmicVoid
+[2022.03.05-21.16.42:981][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031144s)
+[2022.03.05-21.16.42:982][877]LogAIModule: Creating AISystem for world CosmicVoid
+[2022.03.05-21.16.42:982][877]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2022.03.05-21.16.42:982][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CosmicVoid.CosmicVoid to /Game/Maps/UEDPIE_0_CosmicVoid.CosmicVoid (0.032307s)
+[2022.03.05-21.16.42:989][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.05-21.16.42:989][877]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.05-21.16.42:989][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.05-21.16.42:989][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.05-21.16.42:989][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.05-21.16.42:989][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.05-21.16.42:989][877]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.05-21.16.42:989][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.05-21.16.42:989][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.05-21.16.42:990][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.05-21.16.42:990][877]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.05-21.16.42:990][877]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.05-21.16.42:992][877]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.05-21.16.42:992][877]LogAudioMixer: Display: 1: FrontRight
+[2022.03.05-21.16.43:088][877]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.03.05-21.16.43:088][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.05-21.16.43:088][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.05-21.16.43:088][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.05-21.16.43:088][877]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.05-21.16.43:089][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.05-21.16.43:089][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.05-21.16.43:102][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.05-21.16.43:102][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.05-21.16.43:102][877]LogInit: FAudioDevice initialized.
+[2022.03.05-21.16.43:102][877]LogAudio: Display: Audio Device (ID: 6) registered with world 'CosmicVoid'.
+[2022.03.05-21.16.43:109][877]LogLoad: Game class is 'BP_Gamemode_C'
+[2022.03.05-21.16.43:112][877]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CosmicVoid.CosmicVoid up for play (max tick rate 60) at 2022.03.05-21.16.43
+[2022.03.05-21.16.43:113][877]LogWorld: Bringing up level for play took: 0.003570
+[2022.03.05-21.16.43:113][877]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.03.05-21.16.43:115][877]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.03.05-21.16.43:115][877]PIE: Server logged in
+[2022.03.05-21.16.43:116][877]PIE: Play in editor total start time 0.209 seconds.
+[2022.03.05-21.17.03:826][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-21.17.03:826][118]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CosmicVoid
+[2022.03.05-21.17.03:826][118]LogWorld: UWorld::CleanupWorld for CosmicVoid, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-21.17.03:827][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.17.03:837][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.05-21.17.03:843][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.17.03:846][118]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.05-21.17.03:847][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-21.17.03:848][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-21.17.03:865][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-21.17.03:867][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.05-21.17.03:911][120]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.03.05-21.17.08:062][369]Cmd: EDIT COPY
+[2022.03.05-21.17.08:312][384]Cmd: EDIT PASTE
+[2022.03.05-21.17.27:016][506]Cmd: EDIT COPY
+[2022.03.05-21.17.27:250][520]Cmd: EDIT PASTE
+[2022.03.05-21.18.22:559][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.03.05-21.18.22:661][186]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid66415BC545F2CF1F8B6A08A8703CC6AE.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid.umap'
+[2022.03.05-21.18.22:701][186]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid_BuiltDataA16285B040BA994C2785BABC89DCE3D7.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid_BuiltData.uasset'
+[2022.03.05-21.18.22:713][186]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.05-21.18.22:713][186]LogContentValidation: Display: Validating World /Game/Maps/CosmicVoid.CosmicVoid
+[2022.03.05-21.18.22:713][186]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CosmicVoid_BuiltData.CosmicVoid_BuiltData
+[2022.03.05-21.18.25:957][381]Cmd: EDIT COPY
+[2022.03.05-21.18.26:257][399]Cmd: EDIT PASTE
+[2022.03.05-21.19.00:664][462]Cmd: EDIT COPY
+[2022.03.05-21.19.01:130][490]Cmd: EDIT PASTE
+[2022.03.05-21.19.04:556][695]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.05-21.19.28:478][130]Cmd: EDIT COPY
+[2022.03.05-21.19.28:761][147]Cmd: EDIT PASTE
+[2022.03.05-21.19.39:448][787]Cmd: DELETE
+[2022.03.05-21.19.39:448][787]Cmd: ACTOR DELETE
+[2022.03.05-21.19.39:452][787]LogEditorActor: Deleted Actor: BP_TimePickup_C
+[2022.03.05-21.19.39:460][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.03.05-21.19.39:461][787]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.03.05-21.19.41:233][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.03.05-21.19.41:329][893]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid0E9C15E44B4B91B4911517A83241E569.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid.umap'
+[2022.03.05-21.19.41:367][893]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid_BuiltDataB412525145C2098B399E82B317AE2A12.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid_BuiltData.uasset'
+[2022.03.05-21.19.41:379][893]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.05-21.19.41:379][893]LogContentValidation: Display: Validating World /Game/Maps/CosmicVoid.CosmicVoid
+[2022.03.05-21.19.41:379][893]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CosmicVoid_BuiltData.CosmicVoid_BuiltData
+[2022.03.05-21.19.46:607][206]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_TimePickup.BP_TimePickup
+[2022.03.05-21.19.47:024][206]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.03.05-21.19.47:890][206]LogSlate: Took 0.004765 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.05-21.19.47:961][207]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.05-21.19.58:815][743]LogSlate: Window 'BP_TimePickup' being destroyed
+[2022.03.05-21.19.58:822][743]LogSlate: Window 'BP_TimePickup' being destroyed
+[2022.03.05-21.19.58:832][743]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-21.19.58:832][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.20.00:441][836]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Gamemode.BP_Gamemode
+[2022.03.05-21.20.03:949][ 26]LogSlate: Window 'BP_Gamemode' being destroyed
+[2022.03.05-21.20.03:954][ 26]LogSlate: Window 'BP_Gamemode' being destroyed
+[2022.03.05-21.20.03:960][ 26]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-21.20.03:960][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.20.05:657][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.03.05-21.20.05:754][124]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid58DF36D24858FD9300801D8ADC56F6FC.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid.umap'
+[2022.03.05-21.20.05:793][124]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid_BuiltData4338CFAD44FA985E221BDA8EE9367BB5.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid_BuiltData.uasset'
+[2022.03.05-21.20.05:807][124]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.05-21.20.05:807][124]LogContentValidation: Display: Validating World /Game/Maps/CosmicVoid.CosmicVoid
+[2022.03.05-21.20.05:807][124]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CosmicVoid_BuiltData.CosmicVoid_BuiltData
+[2022.03.05-21.20.31:961][688]LogPhysics: Warning: Scale for /Game/Maps/CosmicVoid.CosmicVoid:PersistentLevel.BP_PointPickup_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.03.05-21.20.31:961][688]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/CosmicVoid.CosmicVoid:PersistentLevel.BP_PointPickup_2.Box' 
+[2022.03.05-21.20.36:996][990]Cmd: TRANSACTION UNDO
+[2022.03.05-21.20.36:996][990]LogEditorTransaction: Undo Move Actors
+[2022.03.05-21.20.37:677][ 24]Cmd: TRANSACTION UNDO
+[2022.03.05-21.20.37:677][ 24]LogEditorTransaction: Undo Scale Actors
+[2022.03.05-21.20.41:148][232]LogPhysics: Warning: Scale for /Game/Maps/CosmicVoid.CosmicVoid:PersistentLevel.BP_PointPickup_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.03.05-21.20.41:148][232]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/CosmicVoid.CosmicVoid:PersistentLevel.BP_PointPickup_2.Box' 
+[2022.03.05-21.20.41:715][266]LogPhysics: Warning: Scale for /Game/Maps/CosmicVoid.CosmicVoid:PersistentLevel.BP_PointPickup_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.03.05-21.20.41:715][266]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/CosmicVoid.CosmicVoid:PersistentLevel.BP_PointPickup_2.Box' 
+[2022.03.05-21.20.53:186][954]Cmd: TRANSACTION UNDO
+[2022.03.05-21.20.53:186][954]LogEditorTransaction: Undo Scale Actors
+[2022.03.05-21.21.13:412][163]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.05-21.21.13:423][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.05-21.21.13:423][163]PIE: New page: PIE session: CosmicVoid (5 Mar 2022, 21:21:13)
+[2022.03.05-21.21.13:423][163]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CosmicVoid
+[2022.03.05-21.21.13:447][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023694s)
+[2022.03.05-21.21.13:448][163]LogAIModule: Creating AISystem for world CosmicVoid
+[2022.03.05-21.21.13:448][163]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2022.03.05-21.21.13:448][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CosmicVoid.CosmicVoid to /Game/Maps/UEDPIE_0_CosmicVoid.CosmicVoid (0.024567s)
+[2022.03.05-21.21.13:462][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.03.05-21.21.13:469][163]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.05-21.21.13:469][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.05-21.21.13:469][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.05-21.21.13:469][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.05-21.21.13:469][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.05-21.21.13:469][163]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.05-21.21.13:469][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.05-21.21.13:469][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.05-21.21.13:469][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.05-21.21.13:470][163]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.05-21.21.13:470][163]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.05-21.21.13:472][163]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.05-21.21.13:472][163]LogAudioMixer: Display: 1: FrontRight
+[2022.03.05-21.21.13:572][163]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.03.05-21.21.13:572][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.05-21.21.13:572][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.05-21.21.13:572][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.05-21.21.13:573][163]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.05-21.21.13:573][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.05-21.21.13:573][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.05-21.21.13:586][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.05-21.21.13:586][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.05-21.21.13:586][163]LogInit: FAudioDevice initialized.
+[2022.03.05-21.21.13:586][163]LogAudio: Display: Audio Device (ID: 7) registered with world 'CosmicVoid'.
+[2022.03.05-21.21.13:596][163]LogLoad: Game class is 'BP_Gamemode_C'
+[2022.03.05-21.21.13:599][163]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CosmicVoid.CosmicVoid up for play (max tick rate 60) at 2022.03.05-21.21.13
+[2022.03.05-21.21.13:600][163]LogWorld: Bringing up level for play took: 0.003657
+[2022.03.05-21.21.13:600][163]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.03.05-21.21.13:602][163]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.03.05-21.21.13:602][163]PIE: Server logged in
+[2022.03.05-21.21.13:603][163]PIE: Play in editor total start time 0.183 seconds.
+[2022.03.05-21.21.23:485][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-21.21.23:485][754]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CosmicVoid
+[2022.03.05-21.21.23:485][754]LogWorld: UWorld::CleanupWorld for CosmicVoid, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-21.21.23:486][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.21.23:497][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.05-21.21.23:504][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.21.23:515][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.05-21.21.23:515][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-21.21.23:516][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-21.21.23:533][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-21.21.23:537][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.03.05-21.21.23:564][755]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.03.05-21.21.35:156][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.03.05-21.21.35:255][448]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoidFDFDDFC541AB7E71EFBF43A738DEBBEF.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid.umap'
+[2022.03.05-21.21.35:295][448]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid_BuiltData23419D9D47120738D7157FA204616136.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid_BuiltData.uasset'
+[2022.03.05-21.21.35:308][448]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.05-21.21.35:308][448]LogContentValidation: Display: Validating World /Game/Maps/CosmicVoid.CosmicVoid
+[2022.03.05-21.21.35:308][448]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CosmicVoid_BuiltData.CosmicVoid_BuiltData
+[2022.03.05-21.21.39:715][713]Cmd: EDIT COPY
+[2022.03.05-21.21.39:965][728]Cmd: EDIT PASTE
+[2022.03.05-21.21.49:389][293]Cmd: EDIT COPY
+[2022.03.05-21.21.49:672][310]Cmd: EDIT PASTE
+[2022.03.05-21.21.54:232][583]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.05-21.22.15:813][877]Cmd: EDIT COPY
+[2022.03.05-21.22.16:097][894]Cmd: EDIT PASTE
+[2022.03.05-21.23.22:040][408]Cmd: EDIT COPY
+[2022.03.05-21.23.22:323][425]Cmd: EDIT PASTE
+[2022.03.05-21.23.51:245][158]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.05-21.23.54:294][341]Cmd: DELETE
+[2022.03.05-21.23.54:294][341]Cmd: ACTOR DELETE
+[2022.03.05-21.23.54:299][341]LogEditorActor: Deleted Actor: BP_PointPickup_C
+[2022.03.05-21.23.54:321][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.03.05-21.23.54:330][341]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.03.05-21.23.54:969][380]Cmd: DELETE
+[2022.03.05-21.23.54:969][380]Cmd: ACTOR DELETE
+[2022.03.05-21.23.54:973][380]LogEditorActor: Deleted Actor: BP_PointPickup_C
+[2022.03.05-21.23.54:987][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.03.05-21.23.54:988][380]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2022.03.05-21.23.56:944][498]Cmd: DELETE
+[2022.03.05-21.23.56:944][498]Cmd: ACTOR DELETE
+[2022.03.05-21.23.56:949][498]LogEditorActor: Deleted Actor: BP_PointPickup_C
+[2022.03.05-21.23.56:961][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.03.05-21.23.56:963][498]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2022.03.05-21.24.00:586][716]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.05-21.24.05:486][ 10]Cmd: EDIT COPY
+[2022.03.05-21.24.05:770][ 27]Cmd: EDIT PASTE
+[2022.03.05-21.24.26:445][266]Cmd: EDIT COPY
+[2022.03.05-21.24.26:711][282]Cmd: EDIT PASTE
+[2022.03.05-21.24.39:048][ 21]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.05-21.25.01:224][351]Cmd: EDIT COPY
+[2022.03.05-21.25.01:507][368]Cmd: EDIT PASTE
+[2022.03.05-21.25.24:029][718]Cmd: EDIT COPY
+[2022.03.05-21.25.24:312][735]Cmd: EDIT PASTE
+[2022.03.05-21.25.52:923][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.03.05-21.25.53:039][449]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid862BBE634252D4BA42EA3ABDCF4D1331.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid.umap'
+[2022.03.05-21.25.53:084][449]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid_BuiltData264DCC33411C3D7D188F5AAF2DDA3320.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid_BuiltData.uasset'
+[2022.03.05-21.25.53:098][449]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.05-21.25.53:098][449]LogContentValidation: Display: Validating World /Game/Maps/CosmicVoid.CosmicVoid
+[2022.03.05-21.25.53:098][449]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CosmicVoid_BuiltData.CosmicVoid_BuiltData
+[2022.03.05-21.25.54:890][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.03.05-21.25.54:993][555]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid7341E22D4951B1CEBCD8D99D8EC8581D.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid.umap'
+[2022.03.05-21.25.55:033][555]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid_BuiltDataA26788044565A46BF3605A94F21AE73C.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid_BuiltData.uasset'
+[2022.03.05-21.25.55:045][555]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.05-21.25.55:045][555]LogContentValidation: Display: Validating World /Game/Maps/CosmicVoid.CosmicVoid
+[2022.03.05-21.25.55:045][555]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CosmicVoid_BuiltData.CosmicVoid_BuiltData
+[2022.03.05-21.25.55:217][566]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.05-21.25.55:227][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.05-21.25.55:227][566]PIE: New page: PIE session: CosmicVoid (5 Mar 2022, 21:25:55)
+[2022.03.05-21.25.55:269][566]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CosmicVoid
+[2022.03.05-21.25.55:295][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025339s)
+[2022.03.05-21.25.55:295][566]LogAIModule: Creating AISystem for world CosmicVoid
+[2022.03.05-21.25.55:296][566]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2022.03.05-21.25.55:296][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CosmicVoid.CosmicVoid to /Game/Maps/UEDPIE_0_CosmicVoid.CosmicVoid (0.026553s)
+[2022.03.05-21.25.55:308][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.03.05-21.25.55:309][566]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.05-21.25.55:309][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.05-21.25.55:309][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.05-21.25.55:309][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.05-21.25.55:309][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.05-21.25.55:309][566]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.05-21.25.55:309][566]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.05-21.25.55:309][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.05-21.25.55:309][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.05-21.25.55:309][566]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.05-21.25.55:309][566]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.05-21.25.55:311][566]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.05-21.25.55:311][566]LogAudioMixer: Display: 1: FrontRight
+[2022.03.05-21.25.55:409][566]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.03.05-21.25.55:409][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.05-21.25.55:409][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.05-21.25.55:409][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.05-21.25.55:410][566]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.05-21.25.55:410][566]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.05-21.25.55:410][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.05-21.25.55:423][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.05-21.25.55:423][566]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.05-21.25.55:423][566]LogInit: FAudioDevice initialized.
+[2022.03.05-21.25.55:423][566]LogAudio: Display: Audio Device (ID: 8) registered with world 'CosmicVoid'.
+[2022.03.05-21.25.55:429][566]LogLoad: Game class is 'BP_Gamemode_C'
+[2022.03.05-21.25.55:433][566]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CosmicVoid.CosmicVoid up for play (max tick rate 60) at 2022.03.05-21.25.55
+[2022.03.05-21.25.55:434][566]LogWorld: Bringing up level for play took: 0.004640
+[2022.03.05-21.25.55:434][566]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.03.05-21.25.55:436][566]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.03.05-21.25.55:436][566]PIE: Server logged in
+[2022.03.05-21.25.55:437][566]PIE: Play in editor total start time 0.213 seconds.
+[2022.03.05-21.26.10:387][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-21.26.10:387][461]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CosmicVoid
+[2022.03.05-21.26.10:387][461]LogWorld: UWorld::CleanupWorld for CosmicVoid, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-21.26.10:388][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.26.10:397][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.05-21.26.10:404][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.26.10:414][461]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.05-21.26.10:415][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-21.26.10:416][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-21.26.10:433][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-21.26.10:437][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.03.05-21.26.10:466][462]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.03.05-21.26.13:039][616]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.05-21.26.14:152][682]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.05-21.26.14:570][707]LogEditorViewport: Clicking on Actor (LMB): BP_PointPickup_C (BP_PointPickup5)
+[2022.03.05-21.26.16:663][832]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.05-21.26.17:530][884]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.05-21.26.46:508][622]Cmd: DELETE
+[2022.03.05-21.26.46:508][622]Cmd: ACTOR DELETE
+[2022.03.05-21.26.46:513][622]LogEditorActor: Deleted Actor: BP_PointPickup_C
+[2022.03.05-21.26.46:526][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.03.05-21.26.46:533][622]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.03.05-21.27.01:993][550]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.05-21.27.04:245][685]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.05-21.27.13:897][264]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.05-21.27.28:350][131]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.05-21.27.28:896][163]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.05-21.27.29:465][197]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.05-21.27.31:847][340]LogEditorViewport: Clicking on Actor (LMB): BP_TimePickup_C (BP_TimePickup4)
+[2022.03.05-21.28.02:084][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.03.05-21.28.02:199][151]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid522BA6A64E6C2D90A9FAF0983F511EEE.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid.umap'
+[2022.03.05-21.28.02:239][151]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid_BuiltDataA41D8E214AF6B91BE6C4ADA37659CE1D.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid_BuiltData.uasset'
+[2022.03.05-21.28.02:251][151]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.05-21.28.02:251][151]LogContentValidation: Display: Validating World /Game/Maps/CosmicVoid.CosmicVoid
+[2022.03.05-21.28.02:251][151]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CosmicVoid_BuiltData.CosmicVoid_BuiltData
+[2022.03.05-21.28.08:211][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.03.05-21.28.08:313][507]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid606061DD46E215BACBA7A5B585AD294B.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid.umap'
+[2022.03.05-21.28.08:354][507]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid_BuiltData8EB15D804FA7BF66D961CB932691F5E2.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid_BuiltData.uasset'
+[2022.03.05-21.28.08:369][507]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.05-21.28.08:369][507]LogContentValidation: Display: Validating World /Game/Maps/CosmicVoid.CosmicVoid
+[2022.03.05-21.28.08:369][507]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CosmicVoid_BuiltData.CosmicVoid_BuiltData
+[2022.03.05-21.28.09:380][568]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.05-21.28.09:390][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.05-21.28.09:390][568]PIE: New page: PIE session: CosmicVoid (5 Mar 2022, 21:28:09)
+[2022.03.05-21.28.09:413][568]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CosmicVoid
+[2022.03.05-21.28.09:438][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024960s)
+[2022.03.05-21.28.09:438][568]LogAIModule: Creating AISystem for world CosmicVoid
+[2022.03.05-21.28.09:439][568]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2022.03.05-21.28.09:439][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CosmicVoid.CosmicVoid to /Game/Maps/UEDPIE_0_CosmicVoid.CosmicVoid (0.025956s)
+[2022.03.05-21.28.09:450][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.03.05-21.28.09:451][568]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.03.05-21.28.09:451][568]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.05-21.28.09:451][568]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.05-21.28.09:451][568]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.05-21.28.09:451][568]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.05-21.28.09:451][568]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.05-21.28.09:451][568]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.05-21.28.09:451][568]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.05-21.28.09:451][568]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.05-21.28.09:451][568]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.05-21.28.09:451][568]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.05-21.28.09:453][568]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.05-21.28.09:453][568]LogAudioMixer: Display: 1: FrontRight
+[2022.03.05-21.28.09:551][568]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.03.05-21.28.09:551][568]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.05-21.28.09:551][568]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.05-21.28.09:551][568]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.05-21.28.09:552][568]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.05-21.28.09:552][568]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.05-21.28.09:552][568]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.05-21.28.09:566][568]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.05-21.28.09:566][568]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.05-21.28.09:566][568]LogInit: FAudioDevice initialized.
+[2022.03.05-21.28.09:566][568]LogAudio: Display: Audio Device (ID: 9) registered with world 'CosmicVoid'.
+[2022.03.05-21.28.09:573][568]LogLoad: Game class is 'BP_Gamemode_C'
+[2022.03.05-21.28.09:577][568]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CosmicVoid.CosmicVoid up for play (max tick rate 60) at 2022.03.05-21.28.09
+[2022.03.05-21.28.09:579][568]LogWorld: Bringing up level for play took: 0.005550
+[2022.03.05-21.28.09:579][568]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.03.05-21.28.09:581][568]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.03.05-21.28.09:581][568]PIE: Server logged in
+[2022.03.05-21.28.09:582][568]PIE: Play in editor total start time 0.194 seconds.
+[2022.03.05-21.30.20:543][424]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2022.03.05-21.30.20:543][424]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.03.05-21.30.44:274][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-21.30.44:274][847]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CosmicVoid
+[2022.03.05-21.30.44:275][847]LogWorld: UWorld::CleanupWorld for CosmicVoid, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-21.30.44:275][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.30.44:284][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.05-21.30.44:291][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-21.30.44:303][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-21.30.44:304][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-21.30.44:305][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-21.30.44:326][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.03.05-21.30.44:379][849]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.05-21.30.45:046][889]LogEditorViewport: Clicking on Actor (context menu): BP_SplineMesh_C (BP_SplineMesh)
+[2022.03.05-21.31.04:791][ 69]Cmd: EDIT COPY
+[2022.03.05-21.31.05:057][ 85]Cmd: EDIT PASTE
+[2022.03.05-21.31.16:772][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.03.05-21.31.16:877][785]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoidCDCD0A5740E3D74205DD0CBA6ED4AB50.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid.umap'
+[2022.03.05-21.31.16:917][785]LogSavePackage: Moving '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Saved/CosmicVoid_BuiltDataCF8B8EF741943BA48B410E84186584ED.tmp' to '../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoid_BuiltData.uasset'
+[2022.03.05-21.31.16:930][785]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.05-21.31.16:930][785]LogContentValidation: Display: Validating World /Game/Maps/CosmicVoid.CosmicVoid
+[2022.03.05-21.31.16:930][785]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CosmicVoid_BuiltData.CosmicVoid_BuiltData
