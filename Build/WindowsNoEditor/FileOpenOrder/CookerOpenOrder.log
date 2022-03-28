@@ -40,13 +40,13 @@
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/EngineSky/T_Sky_Blue.uasset" 39
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/EngineSky/T_Sky_Clouds_M.uasset" 40
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/EngineSky/T_Sky_Stars.uasset" 41
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 42
+"../../../Engine/Content/MapTemplates/T_UDK_Sky_CloudMask03.uasset" 42
 "../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 43
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 44
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Volumetrics/SchlickPhase.uasset" 45
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 46
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/LongLatToUV.uasset" 47
-"../../../Engine/Content/MapTemplates/T_UDK_Sky_CloudMask03.uasset" 48
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 44
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 45
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Volumetrics/SchlickPhase.uasset" 46
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 47
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/LongLatToUV.uasset" 48
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/EngineSky/SkyAtmosphere/SkyAtmosphere_MaterialSkyDome.uasset" 49
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 50
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 51
@@ -121,8 +121,8 @@
 "../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 120
 "../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 121
 "../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 122
-"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 123
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 124
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 123
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 124
 "../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 125
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/sA_PickupSet_1/Fx/NiagaraEmitters/NE_Light.uasset" 126
 "../../Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uasset" 127
@@ -194,18 +194,18 @@
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Chair_M.uasset" 193
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Props/Materials/M_Chair.uasset" 194
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Props/SM_Couch.uasset" 195
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Materials/M_Glass.uasset" 196
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Door_N.uasset" 197
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Door_M.uasset" 198
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Props/Materials/M_Door.uasset" 199
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Door_N.uasset" 196
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Door_M.uasset" 197
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Props/Materials/M_Door.uasset" 198
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Materials/M_Glass.uasset" 199
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Props/SM_Door.uasset" 200
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 201
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 202
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 203
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 204
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_RockMesh_N.uasset" 205
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_RockMesh_M.uasset" 206
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 207
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_RockMesh_N.uasset" 204
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_RockMesh_M.uasset" 205
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 206
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 207
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Props/Materials/M_Rock.uasset" 208
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Props/SM_Rock.uasset" 209
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Shelf_N.uasset" 210
@@ -259,24 +259,24 @@
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_Sportscar_Exterior_Emissive.uasset" 258
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Exterior_Diffuse.uasset" 259
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Body.uasset" 260
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Skeletons/SK_SportsCar_PhysicsAsset.uasset" 261
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Underside_ORM.uasset" 262
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Underside_Normal.uasset" 263
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Underside_Diffuse.uasset" 264
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Under.uasset" 265
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Interior_ORM.uasset" 266
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Interior_Normal.uasset" 267
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Interior_Diffuse.uasset" 268
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Interior.uasset" 269
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Glass_ORM.uasset" 270
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Glass_Normal.uasset" 271
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Glass_Diffuse.uasset" 272
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_ORM.uasset" 273
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_OPC_2.uasset" 274
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Normal_2.uasset" 275
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Diffuse_2.uasset" 276
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Masters/M_Glass.uasset" 277
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SportsCar/Mi_Glass_SportsCar.uasset" 278
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Underside_ORM.uasset" 261
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Underside_Normal.uasset" 262
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Underside_Diffuse.uasset" 263
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Under.uasset" 264
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Interior_ORM.uasset" 265
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Interior_Normal.uasset" 266
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Interior_Diffuse.uasset" 267
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Interior.uasset" 268
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Glass_ORM.uasset" 269
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Glass_Normal.uasset" 270
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Glass_Diffuse.uasset" 271
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_ORM.uasset" 272
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_OPC_2.uasset" 273
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Normal_2.uasset" 274
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Diffuse_2.uasset" 275
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Masters/M_Glass.uasset" 276
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/SportsCar/Mi_Glass_SportsCar.uasset" 277
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Skeletons/SK_SportsCar_PhysicsAsset.uasset" 278
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Skeletons/SK_Vehicle_Skeleton.uasset" 279
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Skeletons/SK_SportsCar.uasset" 280
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Blueprints/SUV/AB_SUV.uasset" 281
@@ -320,22 +320,22 @@
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.uasset" 319
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck_Gamemode.uasset" 320
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Blueprints/Hatchback/DA_HB_TireConfig.uasset" 321
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Skeletons/SK_Pickup_PhysicsAsset.uasset" 322
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_ORM_1.uasset" 323
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Normal_1.uasset" 324
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Diffuse_1.uasset" 325
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Pickup/M_Pickup_Under.uasset" 326
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Interior_ORM.uasset" 327
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Interior_OPC.uasset" 328
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Interior_Normal.uasset" 329
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Interior_Diffuse.uasset" 330
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Pickup/M_Pickup_Interior.uasset" 331
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Normal.uasset" 332
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_EMM.uasset" 333
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Diffuse.uasset" 334
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Pickup/M_Pickup_Body.uasset" 335
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_ORM_2.uasset" 336
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Pickup/Mi_Pickup_Glass.uasset" 337
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_ORM_1.uasset" 322
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Normal_1.uasset" 323
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Diffuse_1.uasset" 324
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Pickup/M_Pickup_Under.uasset" 325
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Interior_ORM.uasset" 326
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Interior_OPC.uasset" 327
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Interior_Normal.uasset" 328
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Interior_Diffuse.uasset" 329
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Pickup/M_Pickup_Interior.uasset" 330
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Normal.uasset" 331
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_EMM.uasset" 332
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Diffuse.uasset" 333
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Pickup/M_Pickup_Body.uasset" 334
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_ORM_2.uasset" 335
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Materials/Pickup/Mi_Pickup_Glass.uasset" 336
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Skeletons/SK_Pickup_PhysicsAsset.uasset" 337
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Skeletons/SK_Pickup.uasset" 338
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Blueprints/Pickup/DA_PU_TireConfig.uasset" 339
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.uasset" 340
@@ -539,11 +539,11 @@
 "../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 538
 "../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 539
 "../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 540
-"../../Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 541
-"../../Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 542
-"../../Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 543
-"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 544
-"../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 545
+"../../Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 541
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 542
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 543
+"../../Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 544
+"../../Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 545
 "../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 546
 "../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/VectorFromFloat.uasset" 547
 "../../Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 548
@@ -598,20 +598,20 @@
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/sA_PickupSet_1/Fx/NiagaraSystems/NS_Pickup_2.uasset" 597
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Blueprints/BP_TimePickup.uasset" 598
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/CosmicVoidMap.umap" 599
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Audio/EveningLevel.uasset" 600
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/ArenaMesh/BumpWave.uasset" 601
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/EveningRideMap_BuiltData.uasset" 602
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/EveningRideMap.umap" 603
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Images/EveningRideImage.uasset" 604
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Images/CosmicVoidImage.uasset" 605
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Images/BloodRealmImage.uasset" 606
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Images/Background.uasset" 607
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Blueprints/WB_MainMenu.uasset" 608
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Audio/MainMenu.uasset" 609
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/MainMenuMap.umap" 610
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/LongLevelMap_BuiltData.uasset" 611
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 612
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/ThirdPersonExampleMap.umap" 613
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Images/EveningRideImage.uasset" 600
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Images/CosmicVoidImage.uasset" 601
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Images/BloodRealmImage.uasset" 602
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Images/Background.uasset" 603
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Blueprints/WB_MainMenu.uasset" 604
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Audio/MainMenu.uasset" 605
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/MainMenuMap.umap" 606
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/ArenaMesh/BumpWave.uasset" 607
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/EveningRideMap_BuiltData.uasset" 608
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/LongLevelMap_BuiltData.uasset" 609
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 610
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/ThirdPersonExampleMap.umap" 611
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Audio/EveningLevel.uasset" 612
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Maps/EveningRideMap.umap" 613
 "../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 614
 "../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 615
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/sA_PickupSet_1/Materials/M_Ground.uasset" 616
@@ -708,9 +708,9 @@
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 707
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Props/SM_Statue.uasset" 708
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Props/SM_Chair.uasset" 709
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 710
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 711
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_MacroVariation.uasset" 712
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_MacroVariation.uasset" 710
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 711
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 712
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Materials/M_Metal_Copper.uasset" 713
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 714
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 715
@@ -738,9 +738,9 @@
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 737
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 738
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 739
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 740
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 741
-"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 742
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 740
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 741
+"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 742
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Materials/M_Wood_Pine.uasset" 743
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 744
 "../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 745

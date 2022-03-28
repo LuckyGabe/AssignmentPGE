@@ -727,12 +727,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9F420F9F55488322695E089826C50E6C0261D89E",
-			"Assets": [
-				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/sA_PickupSet_1/Levels/LVL_Showroom.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "AEAE748894C78E81BD027C6DC13D85782FFCF6E4",
 			"Assets": [
 				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/Materials/Obstacles.uasset"
@@ -850,6 +844,12 @@
 			"ShaderMapHash": "DE8F5675491E79CC6D65C90BB67E571E0430D74C",
 			"Assets": [
 				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/EngineSky/M_SkyTimeOfDay.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9F420F9F55488322695E089826C50E6C0261D89E",
+			"Assets": [
+				"../../../../../../Users/memen/Desktop/Progressive Game Engine Scripting/Assignment/Content/sA_PickupSet_1/Levels/LVL_Showroom.uasset"
 			]
 		},
 		{
